@@ -1,0 +1,25 @@
+.bg-grey{
+    background-color: #8d8c8c;
+
+}
+.footer-p-top{
+    padding-top: 30px;
+
+}
+.d-flex{
+    display: flex;
+
+}
+.j-c{
+    justify-content: center;
+
+}
+.j-e{
+    justify-content: space-evenly;
+
+}
+#bg-colour{
+    color: #ffffff;
+    
+
+}
